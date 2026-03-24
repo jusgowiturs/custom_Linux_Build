@@ -1,3 +1,5 @@
-vmlinux
+vmlinux*
 My_Private/*
-
+*.dtb
+*.cpio*
+*.ex*
